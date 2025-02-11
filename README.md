@@ -4,8 +4,7 @@ This is a **React-based food ordering application** where users can browse menu 
 
 ## 🎥 Demo Video
 
-[![Watch Demo](assets/video-thumbnail.png)](https://www.youtube.com/watch?v=your-video-id)
-
+![Watch Demo](https://raw.githubusercontent.com/abdelsalam-ebrahim/food-ordering/main/public/food-ordering.gif)
 
 ## 🏗️ Installation
 
